@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/makiah/.android/build-cache/4d12562556611efcba817b870e9c0129ae7c438c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /Users/makiah/.android/build-cache/a986abaff5f820588223667c8a76ae057518828c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/makiah/.android/build-cache/76370dcb44d023348f9370eb4dfc38d68c77d173/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/makiah/.android/build-cache/b10c295c85d31e5a8849cae29a3bb3191facc76b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/makiah/.android/build-cache/43f3da862cded3b9daed5bf15ede5316ce701037/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/makiah/.android/build-cache/82a42b6bce539f6ae5e87d939109d9dac0ac04e6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] /Users/makiah/.android/build-cache/08ca506ec0215fcc692520b0aefeca5e9646d268/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] /Users/makiah/.android/build-cache/bb3255543562e9df4aa69c18f5fbfb1fd482c05a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/makiah/.android/build-cache/d0cd1a51acf1ce56ff489bc9da0b09f95d02de72/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/makiah/.android/build-cache/e2739d6d0287bf674382fb855700df74d53d590a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/makiah/.android/build-cache/a6c776d1450074c6355b8d4b9701d30967025a16/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/makiah/.android/build-cache/879ad88fe8c8a9a298cd86be998bb8c44678f3b6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/makiah/.android/build-cache/0b96f1532b04e3f471041bc42633378fa8e86e80/output/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/makiah/.android/build-cache/ea189f3d39553b0bca6b1afae85f74dc6c592ce8/output/AndroidManifest.xml:4:4-45
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/makiah/.android/build-cache/a986abaff5f820588223667c8a76ae057518828c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+		MERGED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/makiah/.android/build-cache/4d12562556611efcba817b870e9c0129ae7c438c/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/makiah/.android/build-cache/a986abaff5f820588223667c8a76ae057518828c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/makiah/.android/build-cache/76370dcb44d023348f9370eb4dfc38d68c77d173/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/makiah/.android/build-cache/b10c295c85d31e5a8849cae29a3bb3191facc76b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/makiah/.android/build-cache/82a42b6bce539f6ae5e87d939109d9dac0ac04e6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/makiah/.android/build-cache/08ca506ec0215fcc692520b0aefeca5e9646d268/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/makiah/.android/build-cache/bb3255543562e9df4aa69c18f5fbfb1fd482c05a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/makiah/.android/build-cache/d0cd1a51acf1ce56ff489bc9da0b09f95d02de72/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/makiah/.android/build-cache/e2739d6d0287bf674382fb855700df74d53d590a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/makiah/.android/build-cache/a6c776d1450074c6355b8d4b9701d30967025a16/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/makiah/.android/build-cache/879ad88fe8c8a9a298cd86be998bb8c44678f3b6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/makiah/.android/build-cache/0b96f1532b04e3f471041bc42633378fa8e86e80/output/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /Users/makiah/.android/build-cache/ea189f3d39553b0bca6b1afae85f74dc6c592ce8/output/AndroidManifest.xml:4:45-5:18
+	android:label
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/makiah/Desktop/Code/TFLiteNN/app/src/main/AndroidManifest.xml:37:27-74

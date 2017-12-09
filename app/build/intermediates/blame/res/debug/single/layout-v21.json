@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/makiah/Desktop/Code/TFLiteNN/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/makiah/Desktop/Code/TFLiteNN/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/makiah/Desktop/Code/TFLiteNN/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/makiah/Desktop/Code/TFLiteNN/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/makiah/.android/build-cache/ba31804f6216a5ae5721b3fee86ac9f4795c6513/output/res/layout-v21/notification_action.xml"
+    }
+]
