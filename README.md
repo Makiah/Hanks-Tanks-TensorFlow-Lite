@@ -1,3 +1,3 @@
-# Hank's Tanks TensorFlow Lite — a YOLO-based neural network for android
+# Hank's Tanks TensorFlow Lite
 
-A neural network for cryptobox detection which I'm building for my robotics team (I got annoyed with OpenCV).  
+A YOLO (You Only Look Once) neural network for android cryptobox detection in FTC which I'm building for my robotics team (I got annoyed with OpenCV).  
